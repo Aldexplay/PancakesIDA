@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1679889323 source:d:\alexi\documents\pancakesida\main.cpp
+	<algorithm>
+	<vector>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
